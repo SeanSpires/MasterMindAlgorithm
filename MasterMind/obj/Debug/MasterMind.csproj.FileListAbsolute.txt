@@ -1,0 +1,6 @@
+/Users/sean.spires/Desktop/Projects/MasterMind/MasterMind/bin/Debug/MasterMind.exe
+/Users/sean.spires/Desktop/Projects/MasterMind/MasterMind/bin/Debug/MasterMind.pdb
+/Users/sean.spires/Desktop/Projects/MasterMind/MasterMind/obj/Debug/MasterMind.csprojAssemblyReference.cache
+/Users/sean.spires/Desktop/Projects/MasterMind/MasterMind/obj/Debug/MasterMind.csproj.CoreCompileInputs.cache
+/Users/sean.spires/Desktop/Projects/MasterMind/MasterMind/obj/Debug/MasterMind.exe
+/Users/sean.spires/Desktop/Projects/MasterMind/MasterMind/obj/Debug/MasterMind.pdb
